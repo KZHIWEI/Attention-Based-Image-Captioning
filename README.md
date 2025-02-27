@@ -12,3 +12,7 @@ Will upload the whole project to online storage in the future, before that this 
 ### 🚧   In development  🚧
 
 Please visit https://shadowhusky.cn/?app=Image_Captioning 
+
+### Special Thanks
+
+Zhiwei Zhang
