@@ -15,4 +15,8 @@ Please visit https://shadowhusky.cn/?app=Image_Captioning
 
 ### Special Thanks
 
-Zhiwei Zhang
+Zhiwei Zhang (My Master)
+Henry Zhang (My Slave)
+Shengtong Jiang (My Pet)
+Ping Liu (My Toy)
+Yoyo Cheng (My MB CUP)
